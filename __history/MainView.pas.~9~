@@ -69,18 +69,6 @@ type
     Label24: TLabel;
     Edit22: TEdit;
     Label25: TLabel;
-    Label26: TLabel;
-    Edit23: TEdit;
-    Edit24: TEdit;
-    Label27: TLabel;
-    Edit25: TEdit;
-    Label28: TLabel;
-    Edit26: TEdit;
-    Label29: TLabel;
-    Edit27: TEdit;
-    Label30: TLabel;
-    Label31: TLabel;
-    obs: TMemo;
   private
     { Private declarations }
   public
