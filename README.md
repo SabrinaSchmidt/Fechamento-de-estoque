@@ -1,1 +1,1 @@
-# Fechamento-de-estoque
+#Tela em delphi para auto aprendizado.
